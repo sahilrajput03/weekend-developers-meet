@@ -2,7 +2,7 @@
 
 ## 20th june
 
-### Sahil Rajput
+### Sahil Rajput ( <30 mins )
 
 - Express backend servers with javscript basics.
 - Learning basics of react.

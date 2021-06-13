@@ -1,6 +1,6 @@
-# Hello everyone!
+# Hello everyone, this is meeting
 
-## 20th june
+## 20th June
 
 ### Sahil Rajput ( <30 mins )
 
@@ -11,3 +11,8 @@
 ### Vaidik
 
 - Fun with python
+
+
+## 27th June
+
+- Trying out carousel.

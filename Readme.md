@@ -15,4 +15,6 @@
 
 ## 27th June
 
+## Vaidik
+
 - Trying out carousel.

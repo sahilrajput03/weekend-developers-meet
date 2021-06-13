@@ -1,6 +1,6 @@
 # Hello everyone, this is meeting
 
-## 20th June
+# 20th June
 
 ### Sahil Rajput ( <30 mins )
 
@@ -13,7 +13,7 @@
 - Fun with python
 
 
-## 27th June
+# 27th June
 
 ### Vaidik
 

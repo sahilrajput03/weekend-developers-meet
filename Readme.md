@@ -4,19 +4,19 @@ Just [message me](https://t.me/sahilrajput03) your github username and I'll add 
 
 # 20th June
 
-### Sahil Rajput ( <30 mins )
+#### Sahil Rajput ( <30 mins )
 
 - Express backend servers with javscript basics.
 - Learning basics of react.
 - more to come.
 
-### Vaidik
+#### Vaidik
 
 - Fun with python
 
 
 # 27th June
 
-### Vaidik
+#### Vaidik
 
 - Trying out carousel.

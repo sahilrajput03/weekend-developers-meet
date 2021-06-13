@@ -1,4 +1,4 @@
-# Hello🥳︎ everyone, here you get to know about the meeting detail.
+# Hello🥳︎ everyone, here you get to know about the meeting details.
 
 Just [message me](https://t.me/sahilrajput03) your github username and I'll add you as collaborator to this repo so you can add your own things to the scheduled meetings.
 
